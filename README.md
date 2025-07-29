@@ -2,7 +2,7 @@ Sign Burger – Performance Testing with Apache JMeter (100k User Load)
 
 This repository contains the complete setup, configuration, and reporting artifacts for conducting a large-scale performance test (100,000 users) on the **Sign Burger** application using **Apache JMeter**.
 
-### 🔍 Overview
+ Overview
 
 * **Objective:** Evaluate backend performance of the Login API under high user load (100k users).
 * **Tool Used:** Apache JMeter 5.6.3
@@ -11,7 +11,7 @@ This repository contains the complete setup, configuration, and reporting artifa
 
 ---
 
-### 📁 Folder Structure
+ 📁 Folder Structure
 
 ```
 ├── jmeter/
@@ -25,7 +25,7 @@ This repository contains the complete setup, configuration, and reporting artifa
 
 ---
 
-### 🚀 How to Run the Test (CLI Mode)
+ How to Run the Test (CLI Mode)
 
 ```bash
 cd /path/to/jmeter/bin
@@ -36,7 +36,7 @@ cd /path/to/jmeter/bin
 
 ---
 
-### 📊 Performance Summary
+Performance Summary
 
 * **Total Requests:** 100,000
 * **Success Rate:** 99.998%
